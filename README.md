@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=&width=435&lines=Olá!+Seja+bem-vindo(a)+ao+meu+perfil+GitHub!;👋+Prazer%2C+meu+nome+%C3%A9+Letícia+Silva.)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=&width=435&lines=Olá!+Seja+bem-vindo(a)+ao+meu+perfil+GitHub!;👋+Prazer%2C+meu+nome+%C3%A9+Letícia+Silva.)](https://git.io/typing-svg) 
 
 ## *Uma desenvolvedora Java em construção apaixonada por tecnologia e sempre em busca de novos desafios.* 
 
