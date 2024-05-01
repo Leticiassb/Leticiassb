@@ -22,3 +22,4 @@
 ### *Meus repositórios*
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticiassb&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leticiassb/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticiassb&repo=sistema-notas-com-login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leticiassb/sistema-notas-com-login)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leticiassb&repo=Conta-Bancaria-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Leticiassb/Conta-Bancaria-DIO)
